@@ -1,0 +1,2 @@
+I am inside Static.
+I ahve modified it.
